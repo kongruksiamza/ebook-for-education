@@ -14,7 +14,12 @@ Photo by [sasint](https://pixabay.com/users/sasint-3639875/) , Reference [Boy Sc
 |7|   PHP       | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/blob/225bd62b63d426b54fa0832e632f7e4531bc15ed/PHP/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%20PHP%20%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99.pdf) |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBDR8m30mLmhlFkKpYoy_f9) |
 |8|   Java OOP       | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/blob/225bd62b63d426b54fa0832e632f7e4531bc15ed/Java%20OOP/%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%20Java%20(Update).pdf) |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMCLhBh_3RKlgEq7Cc6fdvOw) |
 
+## Creative Commons licenses | CC BY-NC 
 *©︎ ลิขสิทธิ์โดย __"ก้องรักสยาม"__ เจ้าของเพจ KongRuksiam Studio สอนเขียนโปรแกรมในช่องยูทูป KongRuksiam Official , KongRuksiam Tutorial*
+</br>
+![image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)
+- BY : สามารถนำไปใช้ในสื่อการเรียนการสอนได้ โดยระบุแหล่งที่มาของเอกสาร
+- NC : ห้ามนำไปใช้ในเชิงพาณิชย์
 
 ## ช่องทางสนับสนุน
 - [🎓 คอร์สเรียนบน Udemy](https://github.com/kongruksiamza/udemy-course)
