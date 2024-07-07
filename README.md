@@ -1,6 +1,6 @@
 # 📄 เอกสารแจกเพื่อการศึกษาเท่านั้น (ห้ามจำหน่าย)
 ![image](https://github.com/kongruksiamza/ebook-for-education/blob/main/cover-update.jpg)
-Photo by [sasint](https://pixabay.com/users/sasint-3639875/) , Reference [Boy Scout](https://pixabay.com/photos/boy-scout-scouting-asia-the-same-1822553/)
+Photo by [sasint](https://pixabay.com/users/sasint-3639875/) , Reference [Boy Scout](https://pixabay.com/photos/boy-scout-scouting-asia-the-same-1822631/)
 
 |ลำดับที่| หัวข้อ | ดาวน์โหลด |เข้าเรียน|
 |:----:|:------------------------:|:----:|:----:|
