@@ -14,7 +14,7 @@ Photo by [sasint](https://pixabay.com/users/sasint-3639875/) , Reference [Boy Sc
 |7|   PHP       | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/tree/main/PHP) |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBDR8m30mLmhlFkKpYoy_f9) |
 |8|   Java OOP       | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/tree/main/Java%20OOP) |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMCLhBh_3RKlgEq7Cc6fdvOw) |
 
-### 🔑รหัสผ่าน (Password) : kongruksiam
+#### 🔑รหัสผ่านสำหรับเปิดเอกสาร (Password) : kongruksiam
 <hr>
 
 ## Creative Commons licenses | CC BY-NC 
