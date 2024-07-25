@@ -14,11 +14,10 @@ Photo by [sasint](https://pixabay.com/users/sasint-3639875/) , Reference [Boy Sc
 |7|   PHP เบื้องต้น       | [ดาวน์โหลด]() |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBDR8m30mLmhlFkKpYoy_f9) |
 |8|   เขียนโปรแกรมเชิงวัตถุด้วย Java       | [ดาวน์โหลด]() |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMCLhBh_3RKlgEq7Cc6fdvOw) |
 
-<hr>
-
 ## Creative Commons licenses | CC BY-NC 
 *©︎ ลิขสิทธิ์โดย __"ก้องรักสยาม"__ เจ้าของเพจ KongRuksiam Studio สอนเขียนโปรแกรมในช่องยูทูป KongRuksiam Official , KongRuksiam Tutorial*
-</br>
+<hr>
+
 ![image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)
 - BY : สามารถนำไปใช้ในสื่อการเรียนการสอนได้ โดยระบุแหล่งที่มาของเอกสาร
 - NC : ห้ามนำไปใช้ในเชิงพาณิชย์
