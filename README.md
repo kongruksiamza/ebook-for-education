@@ -5,14 +5,14 @@ Photo by [sasint](https://pixabay.com/users/sasint-3639875/) , Reference [Boy Sc
 ## 🥤 ตารางรายชื่อเอกสาร (PDF)
 |ลำดับที่| หัวข้อ | ดาวน์โหลด 🔽 |เข้าเรียน 🎓|
 |:----:|:------------------------:|:----:|:----:|
-|1|   เขียนโปรแกรมภาษา C        | [ดาวน์โหลด]() |[เข้าเรียน](https://www.youtube.com/playlist?list=PLEE74DyIkwEntgbgSAWUQAamr-H79Lkun) |
-|2|   Git & GitHub       | [ดาวน์โหลด]() |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBGNm5LeGMx-T57njDRzOTD) |
-|3|   JSON       | [ดาวน์โหลด]() |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMD2XAljbJatl3xNv0RhARdD) |
-|4|   Flask Framework       | [ดาวน์โหลด]() |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMC34bOBK1Vrt5_VAIQrS9Hm) |
-|5|   OpenCV       | [ดาวน์โหลด]() |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMAccyALg5VLlP66YS6lSxfv) |
-|6|   HTML5 , CSS3 , JavaScript       | [ดาวน์โหลด]() |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBwThaZp96alko0e1ngs_nw) |
-|7|   PHP       | [ดาวน์โหลด]() |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBDR8m30mLmhlFkKpYoy_f9) |
-|8|   Java OOP       | [ดาวน์โหลด]() |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMCLhBh_3RKlgEq7Cc6fdvOw) |
+|1|   เขียนโปรแกรมภาษา C        | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/tree/main/C%20Programming) |[เข้าเรียน](https://www.youtube.com/playlist?list=PLEE74DyIkwEntgbgSAWUQAamr-H79Lkun) |
+|2|   Git & GitHub       | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/tree/main/Git%20%26%20GitHub) |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBGNm5LeGMx-T57njDRzOTD) |
+|3|   JSON       | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/tree/main/JSON) |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMD2XAljbJatl3xNv0RhARdD) |
+|4|   Flask Framework       | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/tree/main/Flask%20Framework) |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMC34bOBK1Vrt5_VAIQrS9Hm) |
+|5|   OpenCV       | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/tree/main/Python%20%26%20OpenCV) |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMAccyALg5VLlP66YS6lSxfv) |
+|6|   HTML5 , CSS3 , JavaScript       | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/tree/main/HTML%20%2C%20CSS%2C%20JavaScript) |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBwThaZp96alko0e1ngs_nw) |
+|7|   PHP       | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/tree/main/PHP) |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBDR8m30mLmhlFkKpYoy_f9) |
+|8|   Java OOP       | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/tree/main/Java%20OOP) |[เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMCLhBh_3RKlgEq7Cc6fdvOw) |
 
 ### 🔑รหัสผ่าน (Password) : kongruksiam
 <hr>
