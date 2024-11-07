@@ -21,14 +21,6 @@
 - BY : สามารถนำไปใช้ในสื่อการเรียนการสอนได้ โดยระบุแหล่งที่มาของเอกสาร
 - NC : ห้ามนำไปใช้ในเชิงพาณิชย์
 
-## ช่องทางสนับสนุน
-- [🎓 คอร์สเรียนบน Udemy](https://github.com/kongruksiamza/udemy-course)
-- [🛒 ซื้อของผ่าน Shopee](https://shope.ee/3plB9kVnPd)
-
-## 💓 ช่อง Youtube ในเครือของเรา
-- [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
-- [KongRuksiam Tutorial](https://www.youtube.com/@KongRuksiamTutorial)
-
 ## 📢 ติดตามข่าวสารอื่นๆของเราได้ที่
 - [Facebook](https://www.facebook.com/KongRuksiamTutorial)
 - [TikTok](https://www.tiktok.com/@kongruksiamstudio)
