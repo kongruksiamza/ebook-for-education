@@ -49,10 +49,3 @@
 ![image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)
 - BY : สามารถนำไปใช้ในสื่อการเรียนการสอนได้ โดยระบุแหล่งที่มาของเอกสาร
 - NC : ห้ามนำไปใช้ในเชิงพาณิชย์
-
-## 📢 ติดตามข่าวสารอื่นๆของเราได้ที่
-- [Facebook](https://www.facebook.com/KongRuksiamTutorial)
-- [TikTok](https://www.tiktok.com/@kongruksiamstudio)
-- [Instagram](https://www.instagram.com/kongruksiamstudio)
-- [Medium](https://medium.com/@kongruksiam)
-- [Blockdit](https://www.blockdit.com/kongruksiamtutorial)
