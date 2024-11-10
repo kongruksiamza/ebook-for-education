@@ -51,7 +51,7 @@
 
 --- 
 
-## 💻 สนับสนุนคอร์สเรียนของเราได้ที่ [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/user/kong-ruksiam/)
+## 🎓 สนับสนุนคอร์สเรียนของเราได้ที่ [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/user/kong-ruksiam/)
 |ลำดับที่| ชื่อคอร์สเรียน | ดูรายละเอียด |
 |:----:|:------------------------:|:----:|
 |1|พัฒนา REST API ด้วย Django REST Framework           | [ดูรายละเอียด](https://www.udemy.com/course/rest-api-django-rest-framework/?referralCode=3E81004F9DAE23131BC4) |
