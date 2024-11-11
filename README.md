@@ -51,6 +51,19 @@
 
 --- 
 
+## 🔥 หลักสูตรฟรียอดนิยมบน Youtube
+- หลักสูตรก้าวแรกสู่การเขียนโปรแกรมภาษา Python [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBe14u-5pxxEsbJSbdxd1Vs)
+- หลักสูตรการพัฒนาเว็บแอพพลิเคชั่น (Frontend Development) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMDLxLEWmPuTUGLpG1g_yCEK)
+- หลักสูตรการพัฒนาเกมด้วยโปรแกรม Unity (Game Development) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMD6PnzJ9f9xQuNPZsn3Bygh)
+- หลักสูตรการเขียนโปรแกรมด้วยภาษา Java (Basic & OOP) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBBx2Vmt-MBz5LphASGNH-M)
+- หลักสูตรก้าวแรกสู่ Data Science & Image Processing [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMAfoyy1jNLCwWsJKTrbwdWQ)
+- หลักสูตรก้าวแรกสู่ REST API (RESTful Web Services) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMCcCEBCgCI9n5_fE0UTgPH-)
+- หลักสูตรการเขียนโปรแกรมเชิงวัตถุ (Object Oriented Programming) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMCPZeD7lYqe8LJsOhnkP5BO)
+- หลักสูตรการพัฒนาเว็บแอพพลิเคชั่นด้วยภาษา PHP & Framework [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMAex6QuPHmrmodslu_OyT5Y)
+- หลักสูตรการจัดการฐานข้อมูล (Database SQL & NOSQL) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMB9nomnrECunG11vI5pC-af)
+
+---
+
 ## 🎓 สนับสนุนคอร์สเรียนของเราได้ที่ [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/user/kong-ruksiam/)
 **"กดใช้งานคูปอง (Coupon)"** เพื่อรับส่วนลดคอร์สเรียนของเราในราคาพิเศษได้ที่ [ขั้นตอนการใช้คูปอง](#-ขั้นตอนการใช้คูปองส่วนลด-)
 
