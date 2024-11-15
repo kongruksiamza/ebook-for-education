@@ -92,7 +92,7 @@
 - ผู้เรียนต้องเรียนเนื้อหาเบื้องต้นใน Youtube ก่อนจึงจะสามารถเข้าเรียนคอร์ส Workshop ใน Udemy ได้
 
 ## 👨‍💻 ขั้นตอนการใช้คูปองส่วนลด [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/user/kong-ruksiam/)
-- กดที่เมนู **"ใช้คูปอง (Apply Coupon)"**
+- กดที่เมนู **"ใช้คูปอง (Apply Coupon)"** ในหน้าคอร์สเรียนที่ท่านสนใจ
 - กดคัดลอกรหัสคูปองด้านล่าง 👇
 ```
   CP112024
