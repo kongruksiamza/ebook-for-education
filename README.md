@@ -68,7 +68,7 @@
 ---
 
 ## 👋 เรียนเขียนโปรแกรมฟรีผ่านช่อง Youtube ของเรา
-[![Youtube KongRuksiam Official](https://youtube-stats-card.vercel.app/api?channelid=UCQ1r_4x-P-fETLIU4pqf98w&theme=dark&layout=extruded)](https://www.youtube.com/@KongRuksiamOfficial)
+[![Youtube KongRuksiam Official](https://youtube-stats-card.vercel.app/api?channelid=UCQ1r_4x-P-fETLIU4pqf98w&theme=vue_dark&layout=extruded)](https://www.youtube.com/@KongRuksiamOfficial)
 [![Youtube KongRuksiam Tutorial](https://youtube-stats-card.vercel.app/api?channelid=UCB6eDEzpqpiaZnDMzoje57Q&theme=algolia&layout=extruded)](https://www.youtube.com/@KongRuksiamTutorial)
 
 
