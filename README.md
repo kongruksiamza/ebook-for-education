@@ -67,6 +67,11 @@
 
 ---
 
+## 👋 เรียนเขียนโปรแกรมฟรีผ่านช่อง Youtube ของเรา
+[![Youtube KongRuksiam Official](https://youtube-stats-card.vercel.app/api?channelid=UCQ1r_4x-P-fETLIU4pqf98w&theme=dark&layout=extruded)](https://www.youtube.com/@KongRuksiamOfficial)
+[![Youtube KongRuksiam Tutorial](https://youtube-stats-card.vercel.app/api?channelid=UCB6eDEzpqpiaZnDMzoje57Q&theme=algolia&layout=extruded)](https://www.youtube.com/@KongRuksiamTutorial)
+
+
 ## 🎓 สนับสนุนคอร์สเรียนของเราได้ที่ [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/user/kong-ruksiam/)
 **"กดใช้งานคูปอง (Coupon)"** เพื่อรับส่วนลดคอร์สเรียนของเราในราคาพิเศษได้ที่ [ขั้นตอนการใช้คูปอง](#-ขั้นตอนการใช้คูปองส่วนลด-)
 
