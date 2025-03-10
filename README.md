@@ -86,7 +86,7 @@
 |12|Blockchain & Smart Contract (Solidity)     | [ดูรายละเอียด](https://www.udemy.com/course/blockchain-smart-contract/?referralCode=278229F9A1FD213EF855)|
 |13|สร้างเกม 3D ด้วยโปรแกรม Unity (ตั้งแต่เริ่มต้นจนเล่นได้จริง)     | [ดูรายละเอียด](https://www.udemy.com/course/unity-3d-game/?referralCode=F02D3B6DC87F9D3CB1CB)|
 |14|สร้างเกม 2D ด้วยโปรแกรม Unity (ตั้งแต่เริ่มต้นจนเล่นได้จริง)     | [ดูรายละเอียด](https://www.udemy.com/course/unity-2d-tutorial/?referralCode=D74E1D9AA819BAA65847)|
-|15|Generative AI & Prompt Engineering (Advance)     | [ดูรายละเอียด](https://www.udemy.com/course/generative-ai-prompt-engineering/?referralCode=41D734922792E6AF47B1)|
+|15|Generative AI & Prompt Engineering (Techniques & Frameworks)     | [ดูรายละเอียด](https://www.udemy.com/course/generative-ai-prompt-engineering/?referralCode=41D734922792E6AF47B1)|
 
 ### 🏆 สิทธิพิเศษที่จะได้รับ
 - เรียนได้ตลอดชีพ ไม่จำกัดเวลา
