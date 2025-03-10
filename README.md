@@ -45,7 +45,7 @@
 |![image](https://skillicons.dev/icons?i=js)|   JavaScript เบื้องต้น        | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/tree/main/%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%20HTML%20%2CCSS%20%2C%20JavaScript) |
 |![image](https://skillicons.dev/icons?i=python)|   Python เบื้องต้น        | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/tree/e5e2ae3983a139c6a272591ce6edcee79283773f/%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%20Python%20(%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%95%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94)) |
 |![image](https://skillicons.dev/icons?i=vscode)|   Visual Studio Code เบื้องต้น        | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/tree/9134664c2ebeb5240611da258bca06d286fbf4d6/Visual%20Studio%20Code%20%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99) |
-|![image](https://github.com/kongruksiamza/ebook-for-education/blob/main/assets/ChatGPT50.svg)|   Generative AI & Prompt Engineering        | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/tree/main/Generative%20AI%20%26%20Prompt%20Engineering) |
+|![image](https://github.com/kongruksiamza/ebook-for-education/blob/main/assets/ChatGPT50.svg)|   Generative AI & Prompt Engineering พื้นฐาน        | [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education/tree/main/Generative%20AI%20%26%20Prompt%20Engineering) |
 
 ## Creative Commons licenses | CC BY-NC 
 *©︎ ลิขสิทธิ์โดย __"ก้องรักสยาม"__ เจ้าของเพจ [KongRuksiam Studio](https://www.facebook.com/KongRuksiamTutorial) สอนเขียนโปรแกรมในช่องยูทูป [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial) , [KongRuksiam Tutorial](https://www.youtube.com/@KongRuksiamTutorial)*
@@ -86,6 +86,7 @@
 |12|Blockchain & Smart Contract (Solidity)     | [ดูรายละเอียด](https://www.udemy.com/course/blockchain-smart-contract/?referralCode=278229F9A1FD213EF855)|
 |13|สร้างเกม 3D ด้วยโปรแกรม Unity (ตั้งแต่เริ่มต้นจนเล่นได้จริง)     | [ดูรายละเอียด](https://www.udemy.com/course/unity-3d-game/?referralCode=F02D3B6DC87F9D3CB1CB)|
 |14|สร้างเกม 2D ด้วยโปรแกรม Unity (ตั้งแต่เริ่มต้นจนเล่นได้จริง)     | [ดูรายละเอียด](https://www.udemy.com/course/unity-2d-tutorial/?referralCode=D74E1D9AA819BAA65847)|
+|15|Generative AI & Prompt Engineering (Advance)     | [ดูรายละเอียด](https://www.udemy.com/course/generative-ai-prompt-engineering/?referralCode=41D734922792E6AF47B1)|
 
 ### 🏆 สิทธิพิเศษที่จะได้รับ
 - เรียนได้ตลอดชีพ ไม่จำกัดเวลา
