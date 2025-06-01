@@ -24,8 +24,10 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
   <br>
+  <a href="https://github.com/kongruksiamza">
   <img src="https://img.shields.io/github/followers/kongruksiamza?logo=github&style=flat-square&color=green" alt="kongruksiamza"/>
   <img src="https://komarev.com/ghpvc/?username=kongruksiamza&style=flat-square&color=blue" alt="kongruksiamza"/>
+  </a>
 </div>
 
 --- 
