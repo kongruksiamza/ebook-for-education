@@ -1,5 +1,8 @@
 <div id="header" align="center">
-  <img src="https://github.com/kongruksiamza/ebook-for-education/blob/af8fed5f641a54466c2ae9c4d4dd0275a820cfda/learning.gif" width="200"/>
+  
+  [![Youtube KongRuksiam Official](https://youtube-stats-card.vercel.app/api?channelid=UCQ1r_4x-P-fETLIU4pqf98w&theme=dark)](https://www.youtube.com/@KongRuksiamOfficial)
+  [![Youtube KongRuksiam Tutorial](https://youtube-stats-card.vercel.app/api?channelid=UCB6eDEzpqpiaZnDMzoje57Q)](https://www.youtube.com/@KongRuksiamTutorial)
+
 </div>
 <div id="badges" align="center">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
