@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
-  [![Youtube KongRuksiam Official](https://youtube-stats-card.vercel.app/api?channelid=UCQ1r_4x-P-fETLIU4pqf98w&theme=dark)](https://www.youtube.com/@KongRuksiamOfficial)
-  [![Youtube KongRuksiam Tutorial](https://youtube-stats-card.vercel.app/api?channelid=UCB6eDEzpqpiaZnDMzoje57Q)](https://www.youtube.com/@KongRuksiamTutorial)
+  [![Youtube KongRuksiam Official](https://youtube-stats-card.vercel.app/api?channelid=UCQ1r_4x-P-fETLIU4pqf98w&theme=dark&layout=extruded)](https://www.youtube.com/@KongRuksiamOfficial)
+[![Youtube KongRuksiam Tutorial](https://youtube-stats-card.vercel.app/api?channelid=UCB6eDEzpqpiaZnDMzoje57Q&layout=extruded)](https://www.youtube.com/@KongRuksiamTutorial)
 
 </div>
 <div id="badges" align="center">
