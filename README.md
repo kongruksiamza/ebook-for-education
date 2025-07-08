@@ -68,7 +68,6 @@
 - หลักสูตรก้าวแรกสู่ REST API (RESTful Web Services) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMCcCEBCgCI9n5_fE0UTgPH-)
 - หลักสูตรการเขียนโปรแกรมเชิงวัตถุ (Object Oriented Programming) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMCPZeD7lYqe8LJsOhnkP5BO)
 - หลักสูตรการพัฒนาเว็บแอพพลิเคชั่นด้วยภาษา PHP & Framework [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMAex6QuPHmrmodslu_OyT5Y)
-- หลักสูตรการจัดการฐานข้อมูล (Database SQL & NOSQL) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMB9nomnrECunG11vI5pC-af)
 
 ---
 
