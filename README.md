@@ -77,21 +77,21 @@
 
 |ลำดับที่| ชื่อคอร์สเรียน | ดูรายละเอียด |
 |:----:|:------------------------:|:----:|
-|1|พัฒนา REST API ด้วย Django REST Framework           | [ดูรายละเอียด](https://www.udemy.com/course/rest-api-django-rest-framework/?couponCode=CP122025) |
-|2|พัฒนาระบบร้านค้าออนไลน์ด้วย Django Framework 4.x (E-Commerce)    | [ดูรายละเอียด](https://www.udemy.com/course/django-framework-e-commerce/?couponCode=CP122025) |
-|3|พัฒนาเว็บแอพพลิเคชั่นด้วย React (Real-World Projects)     | [ดูรายละเอียด](https://www.udemy.com/course/react-real-world-projects/?couponCode=CP122025)|
-|4|พัฒนาเว็บด้วย JavaScript 40 Workshop (Building 40 Projects)     | [ดูรายละเอียด](https://www.udemy.com/course/javascript-30-workshop/?couponCode=CP122025)|
-|5|พัฒนาเว็บด้วย React 15 Workshop (Building 15 Projects)     | [ดูรายละเอียด](https://www.udemy.com/course/react-15-workshop/?couponCode=CP122025)|
-|6|สร้างเว็บแอพพลิเคชั่นด้วย JavaScript (Building 20 Projects)     | [ดูรายละเอียด](https://www.udemy.com/course/javascript-building-20-projects/?couponCode=CP122025)|
-|7|พัฒนาเว็บด้วย PHP PDO & MySQL (CRUD & Authentication)     | [ดูรายละเอียด](https://www.udemy.com/course/php-pdo-mysql-crud/?couponCode=CP122025)|
-|8|เจาะลึก TypeScript ตั้งแต่เริ่มต้นจนใช้งานจริง     | [ดูรายละเอียด](https://www.udemy.com/course/typescript-basic/?couponCode=CP122025)|
-|9|สร้างแอพพลิเคชั่นด้วยภาษา Python (Real-World Projects)    | [ดูรายละเอียด](https://www.udemy.com/course/python-real-world-projects/?couponCode=CP122025)|
-|10|สร้าง GUI Application ด้วย Python (Real-World Project)     | [ดูรายละเอียด](https://www.udemy.com/course/python-gui-projects/?couponCode=CP122025)|
-|11|พัฒนาเว็บด้วย Django Framework 4.x (Real-World Projects)    | [ดูรายละเอียด](https://www.udemy.com/course/django-framework-real-world-projects/?couponCode=CP122025)|
-|12|Blockchain & Smart Contract (Solidity)     | [ดูรายละเอียด](https://www.udemy.com/course/blockchain-smart-contract/?couponCode=CP122025)|
-|13|สร้างเกม 3D ด้วยโปรแกรม Unity (ตั้งแต่เริ่มต้นจนเล่นได้จริง)     | [ดูรายละเอียด](https://www.udemy.com/course/unity-3d-game/?couponCode=CP122025)|
-|14|สร้างเกม 2D ด้วยโปรแกรม Unity (ตั้งแต่เริ่มต้นจนเล่นได้จริง)     | [ดูรายละเอียด](https://www.udemy.com/course/unity-2d-tutorial/?couponCode=CP122025)|
-|15|Generative AI & Prompt Engineering (Techniques & Frameworks)     | [ดูรายละเอียด](https://www.udemy.com/course/generative-ai-prompt-engineering/?couponCode=CP122025)|
+|1|พัฒนา REST API ด้วย Django REST Framework           | [ดูรายละเอียด](https://www.udemy.com/course/rest-api-django-rest-framework/?couponCode=CP012026) |
+|2|พัฒนาระบบร้านค้าออนไลน์ด้วย Django Framework 4.x (E-Commerce)    | [ดูรายละเอียด](https://www.udemy.com/course/django-framework-e-commerce/?couponCode=CP012026) |
+|3|พัฒนาเว็บแอพพลิเคชั่นด้วย React (Real-World Projects)     | [ดูรายละเอียด](https://www.udemy.com/course/react-real-world-projects/?couponCode=CP012026)|
+|4|พัฒนาเว็บด้วย JavaScript 40 Workshop (Building 40 Projects)     | [ดูรายละเอียด](https://www.udemy.com/course/javascript-30-workshop/?couponCode=CP012026)|
+|5|พัฒนาเว็บด้วย React 15 Workshop (Building 15 Projects)     | [ดูรายละเอียด](https://www.udemy.com/course/react-15-workshop/?couponCode=CP012026)|
+|6|สร้างเว็บแอพพลิเคชั่นด้วย JavaScript (Building 20 Projects)     | [ดูรายละเอียด](https://www.udemy.com/course/javascript-building-20-projects/?couponCode=CP012026)|
+|7|พัฒนาเว็บด้วย PHP PDO & MySQL (CRUD & Authentication)     | [ดูรายละเอียด](https://www.udemy.com/course/php-pdo-mysql-crud/?couponCode=CP012026)|
+|8|เจาะลึก TypeScript ตั้งแต่เริ่มต้นจนใช้งานจริง     | [ดูรายละเอียด](https://www.udemy.com/course/typescript-basic/?couponCode=CP012026)|
+|9|สร้างแอพพลิเคชั่นด้วยภาษา Python (Real-World Projects)    | [ดูรายละเอียด](https://www.udemy.com/course/python-real-world-projects/?couponCode=CP012026)|
+|10|สร้าง GUI Application ด้วย Python (Real-World Project)     | [ดูรายละเอียด](https://www.udemy.com/course/python-gui-projects/?couponCode=CP012026)|
+|11|พัฒนาเว็บด้วย Django Framework 4.x (Real-World Projects)    | [ดูรายละเอียด](https://www.udemy.com/course/django-framework-real-world-projects/?couponCode=CP012026)|
+|12|Blockchain & Smart Contract (Solidity)     | [ดูรายละเอียด](https://www.udemy.com/course/blockchain-smart-contract/?couponCode=CP012026)|
+|13|สร้างเกม 3D ด้วยโปรแกรม Unity (ตั้งแต่เริ่มต้นจนเล่นได้จริง)     | [ดูรายละเอียด](https://www.udemy.com/course/unity-3d-game/?couponCode=CP012026)|
+|14|สร้างเกม 2D ด้วยโปรแกรม Unity (ตั้งแต่เริ่มต้นจนเล่นได้จริง)     | [ดูรายละเอียด](https://www.udemy.com/course/unity-2d-tutorial/?couponCode=CP012026)|
+|15|Generative AI & Prompt Engineering (Techniques & Frameworks)     | [ดูรายละเอียด](https://www.udemy.com/course/generative-ai-prompt-engineering/?couponCode=CP012026)|
 
 ### 🏆 สิทธิพิเศษที่จะได้รับ
 - เรียนได้ตลอดชีพ ไม่จำกัดเวลา
@@ -106,7 +106,7 @@
 - กดที่เมนู **"ใช้คูปอง (Apply Coupon)"**
 - คัดลอกรหัสคูปองด้านล่าง 👇
 ```
-  CP122025
+  CP012026
 ```
 
 - วางคูปองที่คัดลอกลงในช่อง **"ป้อนคูปอง"**
