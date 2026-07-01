@@ -99,7 +99,7 @@
 - รับประกันยินดีคืนเงินใน 30 วัน
 
 ### ❓ คอร์สที่สอนฟรีใน Youtube กับคอร์สใน Udemy ต่างกันอย่างไร
-- คอร์สเรียนใน Udemy เป็นเนื้อหา Workshop ส่วนคอร์สใน Youtube เป็นเนื้อหาเบื้องต้น
+- คอร์สเรียนใน Udemy เป็นเนื้อหา Workshop (ประยุกต์ใช้งานจริง) ส่วนคอร์สใน Youtube เป็นเนื้อหาเบื้องต้น
 - ผู้เรียนต้องเรียนเนื้อหาเบื้องต้นใน Youtube ก่อนจึงจะสามารถเข้าเรียนคอร์ส Workshop ใน Udemy ได้
 
 ## 👨‍💻 ขั้นตอนการใช้คูปองส่วนลด [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/user/kong-ruksiam/)
